@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Charm:400,700');
+
+body {
+    font-family: 'Charm', cursive;
+    background: #eff1f7;
+    margin: 0;
+     
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    text-decoration: underline;
+}
